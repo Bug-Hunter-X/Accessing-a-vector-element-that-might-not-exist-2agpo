@@ -1,0 +1,1 @@
+std::vector<bool> vec; // ... some operations ... bool b = vec[0]; // Accessing an element that might not exist.
