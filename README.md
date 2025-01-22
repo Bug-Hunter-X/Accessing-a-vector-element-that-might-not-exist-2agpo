@@ -1,0 +1,2 @@
+# Accessing a vector element that might not exist
+This repository demonstrates a common error in C++: accessing a vector element that might not exist. This can lead to undefined behavior or runtime exceptions.  The solution shows how to avoid this error using size checks or exception handling.
